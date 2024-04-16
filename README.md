@@ -39,6 +39,7 @@
 ### Задание 3
 
 `![image](https://github.com/ELK23/8-01.md/assets/67402682/1b5c8303-6dac-4515-b43f-14ff657cb97a)
+https://github.com/ELK23/netology/network
 
 `
 
