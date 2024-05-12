@@ -42,7 +42,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![image](https://github.com/netology-code/sys-pattern-homework/assets/67402682/8d0efaa9-4957-4fe9-ac1a-337a3be885c1)
+`
 
 
 ---
